@@ -107,3 +107,25 @@ body{
 li {
     list-style: none;
 }
+
+@media (max-width: 1200px){
+    .cabecalho{
+        padding: 10%;
+    }
+
+    .cabecalho__menu{
+        justify-content: center;
+    }
+
+
+    .apresentacao {
+        flex-direction: column-reverse;
+        gap: 24px;
+        padding: 5%;
+    }
+
+   .apresentacao__conteudo{
+        width: auto;
+   }
+
+}
