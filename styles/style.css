@@ -149,6 +149,7 @@ li {
 
     .apresentacao__links__link{
         width: 35%;
+        border: none;
     }
 
     img{
