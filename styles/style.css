@@ -133,18 +133,15 @@ li {
 @media (max-width: 550px){
 
     .cabecalho{
-       width: 400px;
+       width: 100%;
        padding: 5%;
-       box-sizing: border-box;        
+       box-sizing: border-box;   
+         
     }
 
     .cabecalho__menu{
         box-sizing: border-box;
-        gap: 7%;
-        justify-content: center;
-        position: relative;
-        left: 5%;
-
+        justify-content: space-between;
     }
 
     .apresentacao__links__link{
