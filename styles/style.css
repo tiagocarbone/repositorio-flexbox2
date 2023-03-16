@@ -120,7 +120,7 @@ li {
 
     .apresentacao {
         flex-direction: column-reverse;
-        gap: 24px;
+        gap: 40px;
         padding: 5%;
     }
 
